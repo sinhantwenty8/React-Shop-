@@ -1,0 +1,27 @@
+.searchBarCon{
+    margin-top: 155px;
+    padding-bottom: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.searchBar{
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+    width: 400px;
+}
+
+.button{
+    width: 40px;
+    background-color: white;
+    color: white;
+    margin-left: 4px;
+    border: none;
+}
+
+img{
+    width: 25px ;
+    height: 25px;
+    margin-right:5px ;
+}

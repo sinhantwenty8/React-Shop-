@@ -1,0 +1,28 @@
+.button{
+    border-radius: 50px;
+    width: 40px;
+    margin-left: 10px;
+    border: 0px;
+    background-color: transparent;
+}
+
+.input{
+    width: 42px !important;
+    display: inline;
+    margin-left: 12px;
+    border-radius: 10px;
+    background-color: white !important;
+    border-color: gray;
+}
+
+.button img{
+    width: 25px;
+} 
+
+.con{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+
